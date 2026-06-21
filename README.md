@@ -16,6 +16,11 @@ python tools/fix_nif_winding.py model.nif
 python tools/fix_nif_winding.py ./models/
 ```
 
+## Examples
+
+`examples/winding-fixed/` — real corrected RO2 client models produced by the tool
+(Odinguitar instrument and two-handed sword that rendered inside-out). See its README.
+
 ## NIF Format
 
 RO2 uses Gamebryo File Format version 20.6.0.0:
